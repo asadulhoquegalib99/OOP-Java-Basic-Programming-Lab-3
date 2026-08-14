@@ -2,30 +2,6 @@
 
 Lab Task 3. number system conversion programs in Java.
 
-## Programs
-
-| # | File | What it does |
-|---|------|---------------|
-| 17 | `BinaryAddition.java` | Adds two binary numbers |
-| 18 | `BinaryMultiplication.java` | Multiplies two binary numbers |
-| 19 | `DecimalToBinary.java` | Converts decimal to binary |
-| 20 | `DecimalToHexadecimal.java` | Converts decimal to hexadecimal |
-| 21 | `DecimalToOctal.java` | Converts decimal to octal |
-| 22 | `BinaryToDecimal.java` | Converts binary to decimal |
-| 23 | `BinaryToHexadecimal.java` | Converts binary to hexadecimal |
-| 24 | `BinaryToOctal.java` | Converts binary to octal |
-| 25 | `OctalToDecimal.java` | Converts octal to decimal |
-| 26 | `OctalToBinary.java` | Converts octal to binary |
-| 27 | `OctalToHexadecimal.java` | Converts octal to hexadecimal |
-| 28 | `HexadecimalToDecimal.java` | Converts hexadecimal to decimal |
-| 29 | `HexadecimalToBinary.java` | Converts hexadecimal to binary |
-| 30 | `HexadecimalToOctal.java` | Converts hexadecimal to octal |
-
-
-javac FileName.java
-java FileName
-```
-
 Each program asks for input in the terminal and prints the converted result.
 
 
